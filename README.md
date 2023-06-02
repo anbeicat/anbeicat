@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- ![](https://github-readme-stats.vercel.app/api?username=anbeicat&theme=dark) -->
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,vue,react,ts,electron,nginx&perline=5)](https://skillicons.dev)
+![](https://github-readme-stats.vercel.app/api?username=anbeicat&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,vue,react,ts,electron,nginx)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=js,html,css,vite,vue,react,ts,electron,nginx&perline=5)](https://skillicons.dev) -->
